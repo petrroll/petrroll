@@ -4,8 +4,12 @@ import re
 import dateutil.parser
 import feedparser
 
+MAX_TITLE_LEN = 50
 BLOG_ENTRIES = 5
 README_FILENAME = "README.md"
+
+def shorten_text(text, max_len, placeholder="..."):
+    return text if len(text) <= max_len else text[:max_len-len(placeholder)] + placeholder
 
 def build_readme(path):
     entries = fetch_blog_entries()
@@ -23,7 +27,7 @@ def fetch_blog_entries():
     entries = feedparser.parse("https://devblog.petrroll.cz/feed.xml")["entries"]
     return [
         {
-            "title": entry["title"],
+            "title":shorten_text(entry["title"], MAX_TITLE_LEN),
             "url": entry["link"],
             "published": dateutil.parser.parse(entry["published"]).strftime("%b %-d, %Y"),
         }

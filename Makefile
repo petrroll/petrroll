@@ -3,6 +3,11 @@ VENV_NAME?=env
 PYTHON=$(VENV_NAME)/bin/python
 PYTHON_GLOBAL=python3
 
+.PHONY: rebuild-readme
+rebuild-readme: $(VENV_NAME)
+	$(PYTHON) build-readme.py
+
+
 # ENV & deps
 $(VENV_NAME): requirements.txt activate
 	@test -d $(VENV_NAME) || $(PYTHON_GLOBAL) -m venv $(VENV_NAME)

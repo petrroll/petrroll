@@ -4,9 +4,10 @@ import re
 import dateutil.parser
 import feedparser
 
-MAX_TITLE_LEN = 50
-BLOG_ENTRIES = 5
+MAX_TITLE_LEN = 60
 README_FILENAME = "README.md"
+BLOGPOSTS_ENTRIES = 5
+BLOGPOSTS_FEED_URL = "https://devblog.petrroll.cz/feed.xml"
 
 def shorten_text(text, max_len, placeholder="..."):
     return text if len(text) <= max_len else text[:max_len-len(placeholder)] + placeholder
@@ -18,13 +19,13 @@ def build_readme(path):
     with path.open("r") as fopen:
         original_readme = fopen.read()
     
-    updated_contents = replace_chunk(original_readme, "blog", entries_md)
+    updated_contents = replace_chunk(original_readme, "blog-posts", entries_md)
 
     with path.open("w") as fopen:
         fopen.write(updated_contents)
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://devblog.petrroll.cz/feed.xml")["entries"]
+    entries = feedparser.parse(BLOGPOSTS_FEED_URL)["entries"]
     return [
         {
             "title":shorten_text(entry["title"], MAX_TITLE_LEN),
@@ -36,7 +37,7 @@ def fetch_blog_entries():
 
 def format_blog_entries(entries):
     entries_md = "\n".join(
-        ["* [{title}]({url}) - _{published}_".format(**entry) for entry in entries[:BLOG_ENTRIES]]
+        ["* [{title}]({url}) - _{published}_".format(**entry) for entry in entries[:BLOGPOSTS_ENTRIES]]
     )
 
     return entries_md

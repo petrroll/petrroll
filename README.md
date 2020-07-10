@@ -12,13 +12,13 @@ I’m currently finishing my masters in AI/ML at the [Faculty of Mathematics and
 </td><td valign="top">
 
 #### Recent blogposts:
-<!-- blog starts -->
+<!-- blog-posts starts -->
 * [Scaffolding jekyll posts with little bit of bash](http://devblog.petrroll.cz/scaffolding-jekyll-posts-with-little-bit-of-bash/) - _Jul 10, 2020_
 * [Asserts with custom messages in Burst Unity](http://devblog.petrroll.cz/asserts-with-custom-messages-in-burst-unity/) - _Jul 9, 2020_
-* [Async in C#, .NET, and Unity: Allocation and st...](http://devblog.petrroll.cz/async-in-csharp-dotnet-and-unity-allocation-and-builders/) - _Jul 7, 2020_
-* [Managed personal VPN between your devices throu...](http://devblog.petrroll.cz/managed-personal-vpn-between-your-devices-through-azure/) - _Jun 28, 2020_
+* [Async in C#, .NET, and Unity: Allocation and state machin...](http://devblog.petrroll.cz/async-in-csharp-dotnet-and-unity-allocation-and-builders/) - _Jul 7, 2020_
+* [Managed personal VPN between your devices through Azure](http://devblog.petrroll.cz/managed-personal-vpn-between-your-devices-through-azure/) - _Jun 28, 2020_
 * [Gated linear networks](http://devblog.petrroll.cz/gated-linear-networks/) - _Jun 22, 2020_
-<!-- blog ends -->
+<!-- blog-posts ends -->
 </td></tr></table>
 
 #### Fondly remember being:

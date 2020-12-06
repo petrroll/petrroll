@@ -21,10 +21,10 @@ def shorten_text(text, max_len, placeholder="..."):
 
 def build_readme(path):
     entries_blog = fetch_blog_entries()
-    entries_blog_md = format_rss_entries(entries_blog, BLOGPOSTS_ENTRIES)
+    entries_blog_md = format_entries_to_md(entries_blog, BLOGPOSTS_ENTRIES)
 
     entries_til = fetch_til_entries()
-    entries_til_md = format_rss_entries(entries_til, TIL_ENTRIES)
+    entries_til_md = format_entries_to_md(entries_til, TIL_ENTRIES)
     
     with path.open("r") as fopen:
         original_readme = fopen.read()
@@ -66,7 +66,7 @@ def fetch_blog_entries():
         for entry in entries
     ]
 
-def format_rss_entries(entries, max_entries):
+def format_entries_to_md(entries, max_entries):
     entries_md = "\n".join(
         ["* [{title}]({url}) - _{published}_".format(**entry) for entry in entries[:max_entries]]
     )

@@ -37,7 +37,7 @@ def build_readme(path):
 
 def fetch_til_entries():
     entries = feedparser.parse(TIL_FEED_URL)["entries"]
-    ahref_reg = re.compile('href=\"(.*)\">(.*)</a>') # This isn't robust but since I control the a-href generation (jekyll, templated TIL entry) it's relatively safe
+    ahref_reg = re.compile('href=\"(?P<URL>.*)\">(?P<TITLE>.*)</a>') # This isn't robust but since I control the a-href generation (jekyll, templated TIL entry) it's relatively safe
 
     res = [
         {
@@ -45,10 +45,13 @@ def fetch_til_entries():
             "url": url,
             "published": published,
         }
-        for (published, (url, title)) in zip(
-                map(lambda x: dateutil.parser.parse(x["published"]).strftime("%b %-d, %Y"), entries),
-                map(lambda x: ahref_reg.search(x["summary"]).group(1, 2), entries)
-            )
+        for (published, (url, title)) in map(
+            lambda x: (
+                dateutil.parser.parse(x["published"]).strftime("%b %-d, %Y"),
+                ahref_reg.search(x["summary"]).group("URL", "TITLE")
+            ),
+            entries
+        )
     ]
     return res
 

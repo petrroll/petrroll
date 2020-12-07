@@ -13,10 +13,10 @@ I’m currently finishing my masters in AI/ML at the [Faculty of Mathematics and
 
 #### Recent [TILs](https://devblog.petrroll.cz/til/):
 <!-- tils-posts starts -->
+* [MSR: The simple essence of automatic differentiation.](https://www.youtube.com/watch?v=ne99laPUxN4) - _Dec 6, 2020_
+* [MSR: Quantum computing for CS people without fluff.](https://www.microsoft.com/en-us/research/video/quantum-computing-computer-scientists/) - _Dec 6, 2020_
+* [Performers: approximating attention matrix to mitigate qu...](https://www.youtube.com/watch?v=xJrKIPwVwGM) - _Dec 6, 2020_
 * [George: Brain-inspired AI, GPT versus symbolic models, etc.](https://open.spotify.com/episode/5MZyAZARCI3V5J9E0tx84l?si=3gb-Tc_xSKampVAxdmi18w) - _Dec 5, 2020_
-* [Wolfram: Computational irreducibility, hypergraphs, etc.](https://open.spotify.com/episode/2t0RtbPcFETV9qhCSLFxA4?si=7xq2LyphQ4Wgpb48_GPY6g) - _Dec 5, 2020_
-* [CS231n: Intuitive explanation of backprop (t: 5:40, 28:27)](https://www.youtube.com/watch?v=i94OvYb6noo) - _Nov 29, 2020_
-* [Fast weights: Integrating (not only) Hopfield into DNNs.](https://www.youtube.com/watch?v=Hd20zGKAdoI) - _Nov 27, 2020_
 <!-- tils-posts ends -->
 </td></tr>
 

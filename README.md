@@ -24,12 +24,12 @@ I’m currently finishing my masters in AI/ML at the [Faculty of Mathematics and
 
 #### Recent [blogposts](https://devblog.petrroll.cz/):
 <!-- blog-posts starts -->
+* [Fast weights: attend to the recent past](http://devblog.petrroll.cz/fast-weights-attend-to-the-recent-past/) - _Dec 9, 2020_
 * [Overleaf: how to maintain separate git repo with nice history](http://devblog.petrroll.cz/overleaf-how-to-maintain-separate-git-repo-with-nice-history/) - _Nov 24, 2020_
 * [Scaffolding jekyll posts with little bit of bash](http://devblog.petrroll.cz/scaffolding-jekyll-posts-with-little-bit-of-bash/) - _Jul 10, 2020_
 * [Asserts with custom messages in Burst Unity](http://devblog.petrroll.cz/asserts-with-custom-messages-in-burst-unity/) - _Jul 9, 2020_
 * [Async in C#, .NET, and Unity: Allocation and state machine builders](http://devblog.petrroll.cz/async-in-csharp-dotnet-and-unity-allocation-and-builders/) - _Jul 7, 2020_
 * [Managed personal VPN between your devices through Azure](http://devblog.petrroll.cz/managed-personal-vpn-between-your-devices-through-azure/) - _Jun 28, 2020_
-* [Gated linear networks](http://devblog.petrroll.cz/gated-linear-networks/) - _Jun 22, 2020_
 <!-- blog-posts ends -->
 </td></tr></table>
 

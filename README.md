@@ -13,10 +13,10 @@ I’m currently finishing my masters in AI/ML at the [Faculty of Mathematics and
 
 #### Recent [TILs](https://devblog.petrroll.cz/til/):
 <!-- tils-posts starts -->
+* [HyperLogLog: Intuitive explanation of probabilistic set c...](https://danonrockstar.com/hyperloglog-an-intuitive-explanation-that-doesnt-involve-math-c8fe131adfca) - _Dec 19, 2020_
 * [Motion illusions: How does brain perceive movement throug...](https://jake.vision/blog/motion-illusions/) - _Dec 10, 2020_
 * [MSR: The simple essence of automatic differentiation.](https://www.youtube.com/watch?v=ne99laPUxN4) - _Dec 6, 2020_
 * [MSR: Quantum computing for CS people without fluff.](https://www.microsoft.com/en-us/research/video/quantum-computing-computer-scientists/) - _Dec 6, 2020_
-* [Performers: approximating attention matrix to mitigate qu...](https://www.youtube.com/watch?v=xJrKIPwVwGM) - _Dec 6, 2020_
 <!-- tils-posts ends -->
 </td></tr>
 

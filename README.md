@@ -24,12 +24,12 @@ I’m currently finishing my masters in AI/ML at the [Faculty of Mathematics and
 
 #### Recent [blogposts](https://devblog.petrroll.cz/):
 <!-- blog-posts starts -->
+* [Deep learning notes 03: Switch, Feedback, and generally transformers](http://devblog.petrroll.cz/deep-learning-papersnotes-03-switch-feedback-and-generally-transformers/) - _Feb 17, 2021_
 * [Deep learning papers/notes 02: GPT3, data extraction, Dall-E](http://devblog.petrroll.cz/deep-learning-papersnotes-02-gpt3-data-extraction-dall-e/) - _Feb 10, 2021_
 * [Hypersimensional computing: wide embedding meets Hopfield](http://devblog.petrroll.cz/hypersimensional-computing-wide-embedding-meets-hopfield/) - _Jan 30, 2021_
 * [Deep learning papers/notes 01: Performers, Lookahead, rADAM](http://devblog.petrroll.cz/deep-learning-papersnotes-01-performers-lookahead-radam/) - _Jan 22, 2021_
 * [The Simple Essence of Automatic Differentiation](http://devblog.petrroll.cz/the-simple-essence-of-automatic-differentiation/) - _Dec 13, 2020_
 * [Fast weights: attend to the recent past](http://devblog.petrroll.cz/fast-weights-attend-to-the-recent-past/) - _Dec 9, 2020_
-* [Overleaf: how to maintain separate git repo with nice history](http://devblog.petrroll.cz/overleaf-how-to-maintain-separate-git-repo-with-nice-history/) - _Nov 24, 2020_
 <!-- blog-posts ends -->
 </td></tr></table>
 

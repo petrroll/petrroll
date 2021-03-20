@@ -13,10 +13,10 @@ I’m currently finishing my masters in AI/ML at the [Faculty of Mathematics and
 
 #### Recent [TILs](https://devblog.petrroll.cz/til/):
 <!-- tils-posts starts -->
+* [Eulerian video magnification: Amplify subtle changes in v...](https://www.youtube.com/watch?v=ONZcjs1Pjmk) - _Mar 19, 2021_
+* [F# and computational expressions: monads and how variable...](https://stackoverflow.com/questions/66702741/f-saying-value-not-defined-in-computation-expression/66710942#66710942) - _Mar 19, 2021_
 * [General intelligences: irrelevant anthopocentric concept,...](https://twitter.com/vgr/status/1363965583860011015) - _Feb 26, 2021_
 * [Correlation vector: how to correlate events in distribute...](https://github.com/microsoft/CorrelationVector/blob/master/cV%20-%203.0.md) - _Jan 30, 2021_
-* [1/0 = 0 in Pony: Is this definition of division sound?](https://hillelwayne.com/post/divide-by-zero/) - _Dec 26, 2020_
-* [HyperLogLog: Intuitive explanation of probabilistic set c...](https://danonrockstar.com/hyperloglog-an-intuitive-explanation-that-doesnt-involve-math-c8fe131adfca) - _Dec 19, 2020_
 <!-- tils-posts ends -->
 </td></tr>
 

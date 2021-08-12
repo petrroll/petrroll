@@ -13,10 +13,10 @@ I’m currently finishing my masters in AI/ML at the [Faculty of Mathematics and
 
 #### Recent [TILs](https://devblog.petrroll.cz/til/):
 <!-- tils-posts starts -->
-* [Eulerian video magnification: Amplify subtle changes in v...](https://www.youtube.com/watch?v=ONZcjs1Pjmk) - _Mar 19, 2021_
-* [F# and computational expressions: monads and how variable...](https://stackoverflow.com/questions/66702741/f-saying-value-not-defined-in-computation-expression/66710942#66710942) - _Mar 19, 2021_
-* [General intelligences: irrelevant anthopocentric concept,...](https://twitter.com/vgr/status/1363965583860011015) - _Feb 26, 2021_
-* [Correlation vector: how to correlate events in distribute...](https://github.com/microsoft/CorrelationVector/blob/master/cV%20-%203.0.md) - _Jan 30, 2021_
+* [Working hard isn’t getting burned out nor mindless hustli...](http://paulgraham.com/hwh.html) - _Aug 11, 2021_
+* [Don of F# teaches Guido of Python](https://www.youtube.com/watch?v=e2J9PGC-K1E) - _Aug 11, 2021_
+* [circumvent it with JSONP](https://stackoverflow.com/a/27365346/915609">Why is</a> <a href="https://security.stackexchange.com/a/169749/145362">it bad</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS#what_requests_use_cors">how to handle it</a>, and <a href="https://en.wikipedia.org/wiki/JSONP) - _Aug 11, 2021_
+* [Env variables in Windows: How does process/user/machine h...](https://devblogs.microsoft.com/oldnewthing/20150915-00/?p=91591) - _Aug 11, 2021_
 <!-- tils-posts ends -->
 </td></tr>
 

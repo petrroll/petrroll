@@ -13,10 +13,10 @@ I’m currently finishing my masters in AI/ML at the [Faculty of Mathematics and
 
 #### Recent [TILs](https://devblog.petrroll.cz/til/):
 <!-- tils-posts starts -->
+* [Gradient descent as special cases of PID control](http://www.argmin.net/2018/04/19/pid/) - _Aug 23, 2021_
+* [Declarative (what), imperative (how), or imperativively d...](https://chris.nunciato.org/blog/how-pulumi-is-declarative/) - _Aug 23, 2021_
 * [Working hard isn’t getting burned out nor mindless hustli...](http://paulgraham.com/hwh.html) - _Aug 11, 2021_
 * [Don of F# teaches Guido of Python](https://www.youtube.com/watch?v=e2J9PGC-K1E) - _Aug 11, 2021_
-* [circumvent it with JSONP](https://stackoverflow.com/a/27365346/915609">Why is</a> <a href="https://security.stackexchange.com/a/169749/145362">it bad</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS#what_requests_use_cors">how to handle it</a>, and <a href="https://en.wikipedia.org/wiki/JSONP) - _Aug 11, 2021_
-* [Env variables in Windows: How does process/user/machine h...](https://devblogs.microsoft.com/oldnewthing/20150915-00/?p=91591) - _Aug 11, 2021_
 <!-- tils-posts ends -->
 </td></tr>
 

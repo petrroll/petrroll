@@ -13,10 +13,10 @@ I’m currently finishing my masters in AI/ML at the [Faculty of Mathematics and
 
 #### Recent [TILs](https://devblog.petrroll.cz/til/):
 <!-- tils-posts starts -->
+* [Net Promoter Score: UX can’t be explained via single nois...](https://jmspool.medium.com/net-promoter-score-considered-harmful-and-what-ux-professionals-can-do-about-it-fe7a132f4430) - _Aug 29, 2021_
 * [Gradient descent as special cases of PID control](http://www.argmin.net/2018/04/19/pid/) - _Aug 23, 2021_
 * [Declarative (what), imperative (how), or imperativively d...](https://chris.nunciato.org/blog/how-pulumi-is-declarative/) - _Aug 23, 2021_
 * [Working hard isn’t getting burned out nor mindless hustli...](http://paulgraham.com/hwh.html) - _Aug 11, 2021_
-* [Don of F# teaches Guido of Python](https://www.youtube.com/watch?v=e2J9PGC-K1E) - _Aug 11, 2021_
 <!-- tils-posts ends -->
 </td></tr>
 

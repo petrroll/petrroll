@@ -13,10 +13,10 @@ I’m currently finishing my masters in AI/ML at the [Faculty of Mathematics and
 
 #### Recent [TILs](https://devblog.petrroll.cz/til/):
 <!-- tils-posts starts -->
+* [Senior/principal level IC archetypes](https://staffeng.com/guides/staff-archetypes) - _Nov 20, 2021_
 * [Orleans deep dive: Virtual actors and how to manage state...](https://www.youtube.com/watch?v=R0ODfwU6MzQ) - _Oct 11, 2021_
 * [Net Promoter Score: UX can’t be explained via single nois...](https://jmspool.medium.com/net-promoter-score-considered-harmful-and-what-ux-professionals-can-do-about-it-fe7a132f4430) - _Aug 29, 2021_
 * [Gradient descent as special cases of PID control](http://www.argmin.net/2018/04/19/pid/) - _Aug 23, 2021_
-* [Declarative (what), imperative (how), or imperativively d...](https://chris.nunciato.org/blog/how-pulumi-is-declarative/) - _Aug 23, 2021_
 <!-- tils-posts ends -->
 </td></tr>
 
@@ -24,12 +24,12 @@ I’m currently finishing my masters in AI/ML at the [Faculty of Mathematics and
 
 #### Recent [blogposts](https://devblog.petrroll.cz/):
 <!-- blog-posts starts -->
+* [Deep learning notes 09: Grokking - overfit into generalization](http://devblog.petrroll.cz/deep-learning-notes-09-grokking-overfit-into-generalization/) - _Nov 20, 2021_
 * [Deep learning notes 08: Fastformer - additive or static (self)attention?](http://devblog.petrroll.cz/deep-learning-notes-08-fastformer-additive-attention-or-weird-static-selfattention/) - _Oct 11, 2021_
 * [Deep learning notes 07: PonderNet - Learn when to stop thinking](http://devblog.petrroll.cz/deep-learning-notes-07-pondernet-learn-when-to-stop-thinking/) - _Aug 27, 2021_
 * [Deep learning notes 06: Part-whole hierarchies with GLOM](http://devblog.petrroll.cz/deep-learning-notes-06-part-whole-hierarchies-with-GLOM/) - _Jul 13, 2021_
 * [Deep learning notes 05: Unsupervised vision with DINO](http://devblog.petrroll.cz/deep-learning-notes-05-unsupervised-vision-with-dino/) - _May 11, 2021_
 * [SWE notes 01: Types as weather](http://devblog.petrroll.cz/swe-notes-01-types-as-weather/) - _May 11, 2021_
-* [Deep learning notes 04: Perceivers and Branch specialization](http://devblog.petrroll.cz/deep-learning-notes-04-perceivers-and-branch-specialization/) - _Apr 14, 2021_
 <!-- blog-posts ends -->
 </td></tr></table>
 

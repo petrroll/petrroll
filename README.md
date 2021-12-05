@@ -13,10 +13,10 @@ I’m currently finishing my masters in AI/ML at the [Faculty of Mathematics and
 
 #### Recent [TILs](https://devblog.petrroll.cz/til/):
 <!-- tils-posts starts -->
+* [Inflation: story of reduction to a single variable, redis...](https://economicsfromthetopdown.com/2021/11/24/the-truth-about-inflation/) - _Dec 5, 2021_
+* [High Frequency Trader’s apology: Why, how, (and how bette...](https://www.chrisstucchio.com/blog/2012/hft_apology.html) - _Dec 4, 2021_
 * [Simple RL algs with code: from random search to REINFORCE](https://kvfrans.com/simple-algoritms-for-solving-cartpole/) - _Nov 21, 2021_
 * [Senior/principal level IC archetypes](https://staffeng.com/guides/staff-archetypes) - _Nov 20, 2021_
-* [Orleans deep dive: Virtual actors and how to manage state...](https://www.youtube.com/watch?v=R0ODfwU6MzQ) - _Oct 11, 2021_
-* [Net Promoter Score: UX can’t be explained via single nois...](https://jmspool.medium.com/net-promoter-score-considered-harmful-and-what-ux-professionals-can-do-about-it-fe7a132f4430) - _Aug 29, 2021_
 <!-- tils-posts ends -->
 </td></tr>
 

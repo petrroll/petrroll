@@ -13,10 +13,10 @@ I’m currently finishing my masters in AI/ML at the [Faculty of Mathematics and
 
 #### Recent [TILs](https://devblog.petrroll.cz/til/):
 <!-- tils-posts starts -->
+* [Coloring functions: non-blocking without green threads](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/) - _May 1, 2022_
 * [Memory barriers: why, how, and what types](https://afana.me/archive/2015/07/10/memory-barriers-in-dot-net.aspx/) - _Apr 10, 2022_
 * [Crypto/web3 cannot deliver: (de)centralisation isn’t abou...](https://blog.dshr.org/2018/01/it-isnt-about-technology.html) - _Feb 20, 2022_
 * [Pure/inpute segration - only a Sith deal in absolutes](https://tyrrrz.me/blog/pure-impure-segregation-principle) - _Feb 20, 2022_
-* [Anders Hejlsberg: types as set theory, null(ability), and...](https://www.youtube.com/watch?v=K3qf8gRFESU) - _Dec 12, 2021_
 <!-- tils-posts ends -->
 </td></tr>
 

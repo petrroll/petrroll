@@ -48,7 +48,7 @@ def fetch_til_entries():
         for (published, (url, title)) in map(
             lambda x: (
                 dateutil.parser.parse(x["published"]).strftime("%b %-d, %Y"),
-                ahref_reg.search(x["summary"]).group("URL", "TITLE")
+                ahref_reg.search(x["content"][0]["value"]).group("URL", "TITLE")
             ),
             entries
         )

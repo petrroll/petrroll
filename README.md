@@ -24,12 +24,7 @@ I’m currently finishing my masters in AI/ML at the [Faculty of Mathematics and
 
 #### Recent [blogposts](https://devblog.petrroll.cz/):
 <!-- blog-posts starts -->
-* [SWE notes 02: SIFT - detect features regardless of scale without DNNs](http://devblog.petrroll.cz/swe-notes-02-sift-detect-features-regardless-of-scale-without-dnns/) - _Apr 30, 2022_
-* [Deep learning notes 11: All is Kernels - but not those in ring0](http://devblog.petrroll.cz/deep-learning-notes-11-all-is-kernels-but-not-those-in-ring0/) - _Mar 22, 2022_
-* [Deep learning notes 10: Diffusion models - noise to nice in few steps](http://devblog.petrroll.cz/deep-learning-notes-10-diffusion-models-noise-to-nice-in-few-steps/) - _Feb 20, 2022_
-* [Deep learning notes 09: Grokking - overfit into generalization](http://devblog.petrroll.cz/deep-learning-notes-09-grokking-overfit-into-generalization/) - _Nov 20, 2021_
-* [Deep learning notes 08: Fastformer - additive or static (self)attention?](http://devblog.petrroll.cz/deep-learning-notes-08-fastformer-additive-attention-or-weird-static-selfattention/) - _Oct 11, 2021_
-* [Deep learning notes 07: PonderNet - Learn when to stop thinking](http://devblog.petrroll.cz/deep-learning-notes-07-pondernet-learn-when-to-stop-thinking/) - _Aug 27, 2021_
+
 <!-- blog-posts ends -->
 </td></tr></table>
 
